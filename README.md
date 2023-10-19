@@ -1,5 +1,5 @@
 # SM_Stores_SQL_case_study
-![tb3](https://github.com/mobolajifalugba/SM-Stores-SQL-case-study/assets/51162684/6cce4487-863e-412f-8505-1852b8f5c646)
+![sqp](https://github.com/mobolajifalugba/SM-Stores-SQL-case-study/assets/51162684/5cd9321e-a99f-4b11-9e86-36dca2446024)
 This project is a deep dive into the data of a retail store, where we aim to extract meaningful insights, optimize processes, and uncover hidden opportunities through the power of SQL.
 ## Project Overview
 In this SQL project, we examine the extensive dataset of our retail store. Our **objectives** include:
